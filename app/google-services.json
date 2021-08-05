@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "129398747434",
+    "project_id": "textfirebasestorage",
+    "storage_bucket": "textfirebasestorage.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129398747434:android:b6066f7b6c673f1afeee53",
+        "android_client_info": {
+          "package_name": "pan.bo.yu.textfirebasestorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129398747434-m72vsjinopnkfakfqlkenp7hvnsjd085.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pan.bo.yu.textfirebasestorage",
+            "certificate_hash": "cb8f48aeeb9d9d013750003ba4f184ef5035a0ab"
+          }
+        },
+        {
+          "client_id": "129398747434-tpiit9t6vntnha077n3ijk0bfachqrb9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtZ6tgFhLmFLqP-B1fQbiGEEa4DlpIfEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129398747434-tpiit9t6vntnha077n3ijk0bfachqrb9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
